@@ -1,5 +1,5 @@
 ![image](https://github.com/abhayku2002/Iris-flower-classification-using-machine-learning/assets/34162485/8aa02cf7-5ad7-4c5a-bc1b-9d52b5cc9989)
-# Iris-flower-classification-using-machine-learning
+# Iris Flower Classification Using Machine Learning
 
 ## Project Submitted by  <br/>
 ABHAY KUMAR 1AM21CI001 <br/>
@@ -21,4 +21,5 @@ The performance of each model is evaluated using metrics like accuracy, precisio
 Comparative Analysis: Conducting a comparative analysis of the performance of different machine learning algorithms in iris flower classification. 
 This involves identifying the strengths and weaknesses of each algorithm in accurately categorizing iris flower species.<br/>
 
-![image](https://github.com/abhayku2002/Iris-flower-classification-using-machine-learning/assets/34162485/7af2d093-dbe6-47be-a83a-99df3415d023)
+## Result <br/>
+![image](https://github.com/abhayku2002/Iris-flower-classification-using-machine-learning/assets/34162485/766fd743-f54c-4bff-a07f-b5ed62569a39)
