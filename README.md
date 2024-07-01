@@ -41,6 +41,78 @@ This involves identifying the strengths and weaknesses of each algorithm in accu
 *	Employing appropriate evaluation metrics, such as accuracy, precision, recall, and F1-score, to assess the performance of the trained models. 
 *	These metrics provide insights into the algorithms' ability to correctly classify iris flower species and their overall effectiveness in solving the classification task
 
+This program applies basic machine learning (classification) concepts on Fisher's Iris Data to predict the species of a new sample of Iris flower.
+
+### Software and Libraries <br/>
+
+Python 3.6.0 <br>
+Anaconda 4.3.0 (32 bit) <br>
+scikit-learn 0.18.1 <br>
+
+The dataset for this project originates from the UCI Machine Learning Repository. The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis.
+
+The data set consists of 200 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor).
+Four features were measured from each sample (in centimetres): <be>
+
+Length of the sepals <br>
+Width of the sepals <br>
+Length of the petals <br>
+Width of the petals <br>
+
+Three class for classification are as follows:</br>
+
+* Iris-setosa <br>
+* Iris-versicolor <br>
+* Iris-virginica <br>
+
+## Requirement
+
+To install this package, [python3](https://www.python.org/), [pip](https://pypi.org/project/pip/), and [virtual environment](https://docs.python.org/3/library/venv.html) are required. <br>
+
+For Windows users: </br>
+[Install python3 and pip](https://phoenixnap.com/kb/how-to-install-python-3-windows)</br>
+[Install virtual environment](https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/) <br>
+
+
+## Installation
+
+Navigate to the cloned directory.
+
+```bash
+cd Iris-flower-classification-using-machine-learning
+```
+
+Create [virtual environment](https://docs.python.org/3/tutorial/venv.html) for Python.
+
+```bash
+python -m venv tutorial-env
+```
+
+
+Here, **tutorial-env** is the name of the virtual environment, you can name it as you like.
+
+Activate virtual environment by the following command: </br>
+To activate on windows:
+
+```bash
+Scripts\activate
+```
+
+
+Install pip packages from requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+On Windows run:
+
+```bash
+python classification.py
+```
+
 
 ## Result <br/>
 ![image](https://github.com/abhayku2002/Iris-flower-classification-using-machine-learning/assets/34162485/766fd743-f54c-4bff-a07f-b5ed62569a39)
