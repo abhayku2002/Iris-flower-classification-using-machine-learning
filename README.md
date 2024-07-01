@@ -39,3 +39,6 @@ This involves identifying the strengths and weaknesses of each algorithm in accu
 
 ## Result <br/>
 ![image](https://github.com/abhayku2002/Iris-flower-classification-using-machine-learning/assets/34162485/766fd743-f54c-4bff-a07f-b5ed62569a39)
+
+![image](https://github.com/abhayku2002/Iris-flower-classification-using-machine-learning/assets/34162485/45f24a90-408d-49f4-bb6f-b4171d875609)
+
