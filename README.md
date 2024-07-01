@@ -7,11 +7,11 @@ Machine learning is almost everywhere nowadays. It’s become more and more nece
 ## Project Submitted by  <br/>
 
 ```
-ABHAY KUMAR 1AM21CI001 <br/>
-ANKIT RAJ SHARMA	1AM21CI002  <br/>
-AYUSHMAN KUMAR TIWARI	1AM21CI004  <br/>
-MUDIT KUMAR SHARMA 1AM21CI031 <br/>
-PRAKASH KUMAR NAYAK	1AM21CI036  <br/>
+ABHAY KUMAR                   1AM21CI001 
+ANKIT RAJ SHARMA	             1AM21CI002  
+AYUSHMAN KUMAR TIWARI	        1AM21CI004  
+MUDIT KUMAR SHARMA            1AM21CI031 
+PRAKASH KUMAR NAYAK	          1AM21CI036  
  ```
 
 
