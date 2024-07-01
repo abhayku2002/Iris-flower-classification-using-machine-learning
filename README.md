@@ -24,17 +24,17 @@ This involves identifying the strengths and weaknesses of each algorithm in accu
 ## Working Procedure <br/>
 
 1.	Data Collection and Preprocessing: <br/>
-*Collecting a comprehensive dataset of iris flower instances, including petal and sepal measurements for each sample. 
+* Collecting a comprehensive dataset of iris flower instances, including petal and sepal measurements for each sample. 
 *	Preprocessing the dataset by handling missing values, removing outliers, and standardizing or normalizing the feature values to ensure consistency and facilitate algorithm convergence.
-2.	Algorithm Selection:
-▪	Choosing suitable machine learning algorithms for iris flower classification, such as logistic regression, k-nearest neighbors, random forest, support vector machine, naive Bayes, and decision tree algorithms. 
-▪	Each algorithm is selected based on its appropriateness for the classification task and its potential to achieve high accuracy.
-3.	Model Training:
-▪	Dividing the dataset into training and testing subsets to facilitate model training and evaluation. 
-▪	Training each selected algorithm using the training data, allowing the models to learn from the patterns present in the input features and their corresponding iris flower species labels.
-4.	Evaluation Metrics:
-▪	Employing appropriate evaluation metrics, such as accuracy, precision, recall, and F1-score, to assess the performance of the trained models. 
-▪	These metrics provide insights into the algorithms' ability to correctly classify iris flower species and their overall effectiveness in solving the classification task
+2.	Algorithm Selection: <br/>
+*	Choosing suitable machine learning algorithms for iris flower classification, such as logistic regression, k-nearest neighbors, random forest, support vector machine, naive Bayes, and decision tree algorithms. 
+*	Each algorithm is selected based on its appropriateness for the classification task and its potential to achieve high accuracy.
+3.	Model Training: <br/>
+*	Dividing the dataset into training and testing subsets to facilitate model training and evaluation. 
+*	Training each selected algorithm using the training data, allowing the models to learn from the patterns present in the input features and their corresponding iris flower species labels.
+4.	Evaluation Metrics: <br/>
+*	Employing appropriate evaluation metrics, such as accuracy, precision, recall, and F1-score, to assess the performance of the trained models. 
+*	These metrics provide insights into the algorithms' ability to correctly classify iris flower species and their overall effectiveness in solving the classification task
 
 
 ## Result <br/>
