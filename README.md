@@ -23,9 +23,9 @@ This involves identifying the strengths and weaknesses of each algorithm in accu
 
 ## Working Procedure <br/>
 
-1.	Data Collection and Preprocessing:
-▪	Collecting a comprehensive dataset of iris flower instances, including petal and sepal measurements for each sample. 
-▪	Preprocessing the dataset by handling missing values, removing outliers, and standardizing or normalizing the feature values to ensure consistency and facilitate algorithm convergence.
+1.	Data Collection and Preprocessing: <br/>
+*Collecting a comprehensive dataset of iris flower instances, including petal and sepal measurements for each sample. 
+*	Preprocessing the dataset by handling missing values, removing outliers, and standardizing or normalizing the feature values to ensure consistency and facilitate algorithm convergence.
 2.	Algorithm Selection:
 ▪	Choosing suitable machine learning algorithms for iris flower classification, such as logistic regression, k-nearest neighbors, random forest, support vector machine, naive Bayes, and decision tree algorithms. 
 ▪	Each algorithm is selected based on its appropriateness for the classification task and its potential to achieve high accuracy.
