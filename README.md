@@ -3,7 +3,7 @@
 
 Machine learning is almost everywhere nowadays. It’s become more and more necessary day by day. From the recommendation of what to buy to recognizing a person, robotics, everywhere is machine learning. 
 
-ABSTRACT /n
+ABSTRACT <br>
 Project Scope: The project scope entails employing diverse machine learning algorithms on the Iris dataset to classify iris flower species. 
 With 200 instances categorized into Setosa, Versicolor, and Virginica classes, the study includes model training, evaluation, and comparative analysis to discern the most effective algorithms, offering insights for botany and related fields. 
 The scope encompasses the following key elements: 
