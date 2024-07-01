@@ -1,7 +1,7 @@
 
 # Iris-flower-classification-using-machine-learning
 
-# Project Submitted by  <br/>
+## Project Submitted by  <br/>
 ABHAY KUMAR 1AM21CI001 <br/>
 ANKIT RAJ SHARMA	1AM21CI002  <br/>
 AYUSHMAN KUMAR TIWARI	1AM21CI004  <br/>
@@ -11,7 +11,7 @@ PRAKASH KUMAR NAYAK	1AM21CI036  <br/>
 
 Machine learning is almost everywhere nowadays. It’s become more and more necessary day by day. From the recommendation of what to buy to recognizing a person, robotics, everywhere is machine learning. 
 
-ABSTRACT <br>
+##ABSTRACT <br>
 The project scope entails employing diverse machine learning algorithms on the Iris dataset to classify iris flower species. <br/>
 With 200 instances categorized into Setosa, Versicolor, and Virginica classes, the study includes model training, evaluation, and comparative analysis to discern the most effective algorithms, offering insights for botany and related fields. <br/> <br/>
 The scope encompasses the following key elements: 
