@@ -4,17 +4,6 @@ Machine learning is almost everywhere nowadays. It’s become more and more nece
 * In this project, we delved into the realm of supervised machine learning, specifically focusing on Iris Flower Classification. Leveraging six diverse machine learning models - k-Nearest Neighbors, Logistic Regression, Decision Tree, SVM, Naive Bayes, and Random Forest classifier - we aimed to construct robust models capable of accurately predicting iris flower species. Through extensive data visualization, analysis, and model construction, we gained valuable insights into the intricacies of the iris dataset and the performance of various algorithms. Our findings suggest that Logistic Regression emerges as the most accurate classifier among the six models tested. Moving forward, the overarching goal of supervised learning remains to build models that generalize well to unseen data, ensuring accurate predictions for future iris flowers beyond the scope of our training dataset. <br/>
 
 
-## Project Submitted by  <br/>
-
-```
-ABHAY KUMAR                   1AM21CI001 
-ANKIT RAJ SHARMA	      1AM21CI002  
-AYUSHMAN KUMAR TIWARI	      1AM21CI004  
-MUDIT KUMAR SHARMA            1AM21CI031 
-PRAKASH KUMAR NAYAK	      1AM21CI036  
- ```
-
-
 
 ## ABSTRACT <br>
 The project scope entails employing diverse machine learning algorithms on the Iris dataset to classify iris flower species. <br/>
